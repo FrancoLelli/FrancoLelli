@@ -1,4 +1,5 @@
 - 👋 Hola, soy Franco.
-- 😎 Soy Full Stack & Mobile Developer
-- ⌨️ Actualmente programo en: React, ExpressJS, React Native, Laravel, Spring
+- 😎 Soy Full Stack & Mobile Developer.
+- 💻 Programo en: TypeScript, JavaScript, PHP, Java.
+- ⌨️ Frameworks: React, ExpressJS, Expo, React Native, Laravel, Spring.
 - 📫 Puedes contactarme en francogastonlelli@gmail.com
